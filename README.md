@@ -1,4 +1,4 @@
-<a href="https://github.com/ChrisTJie"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisTJie&count_private=true&show_icons=true&theme=github_dark" alt="ChrisT.Jie's github stats" /></a> | <a href="https://github.com/ChrisTJie"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisTJie&layout=compact&theme=github_dark" /></a>
+<a href="https://github.com/ChrisTJie"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisTJie&count_private=true&show_icons=true&theme=github_dark" alt="ChrisT.Jie's github stats" /></a>-<a href="https://github.com/ChrisTJie"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisTJie&layout=compact&theme=github_dark" /></a>
 
 <!--
 ### Hi there 👋
