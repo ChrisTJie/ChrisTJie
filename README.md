@@ -1,5 +1,6 @@
-| <a href="https://github.com/ChrisTJie"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisTJie&count_private=true&show_icons=true&theme=github_dark" alt="ChrisT.Jie's github stats" /></a> | <a href="https://github.com/ChrisTJie"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisTJie&layout=compact&theme=github_dark" /></a> | 
-| ------------- | ------------- |
+| Stats | Streak |
+| :-: | :-: |
+| ![ChrisTJie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisTJie&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=ChrisTJie&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
 
 <!--
 ### Hi there 👋
