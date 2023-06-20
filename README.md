@@ -3,7 +3,7 @@
 | ![ChrisTJie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisTJie&theme=radical&show_icons=true&hide_border=true&border_radius=5&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=ChrisTJie&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats) |
 
 👋 Hello!
-I'm a professional Unity Game Programmer, with nearly seven years of experience, and currently specializing in AR, VR, MR fields.
+I'm a Unity Game Programmer, with nearly seven years of experience, and currently specializing in AR, VR, MR fields.
 
 🎓 I graduated from the Department of Multimedia and Game Science at Southern Taiwan University of Science and Technology, equipped with solid digital media technology. I am passionate about my work and always up for new challenges.
 
