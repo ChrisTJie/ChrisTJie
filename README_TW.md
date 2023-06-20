@@ -3,7 +3,7 @@
 | ![ChrisTJie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisTJie&theme=radical&show_icons=true&hide_border=true&border_radius=5&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=ChrisTJie&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats) |
 
 👋 你好！
-我是一位專業的 Unity 遊戲程式設計師，具有近三年的工作經驗，並且正在努力專精於 AR、VR、MR 的專業領域。
+我是一位 Unity 遊戲程式設計師，具有近三年的工作經驗，並且正在努力專精於 AR、VR、MR 的專業領域。
 
 🎓 我畢業於南臺科技大學的多媒體與電腦娛樂科學系，擁有扎實的數位媒體技術背景。我對於我的工作充滿熱情，並且樂於追求新的挑戰。
 
