@@ -5,9 +5,9 @@
 👋 Hello!
 I'm a Unity Game Programmer, with nearly three years of experience, and currently specializing in AR, VR, MR fields.
 
-🎓 I graduated from the Department of Multimedia and Game Science at Southern Taiwan University of Science and Technology, equipped with solid digital media technology. I am passionate about my work and always up for new challenges.
+🎓 I graduated from the Department of Multimedia and Game Science, Southern Taiwan University of Science and Technology, equipped with solid digital media technology. I am passionate about my work and always up for new challenges.
 
-🎮 During university, I co-developed five games with my classmates:
+🎮 During my time at university, I co-developed five games with my classmates:
 
 - `SOMNUS` - A first-person action shooting game
 - `Cyber Finger` - A 3D Top-Down mobile game
@@ -17,7 +17,7 @@ I'm a Unity Game Programmer, with nearly three years of experience, and currentl
 
 🏆 My game development works have received recognition in several competitions:
 
-- `2020 (Vision Get Wild，VGW) Awards`
+- `2020 (Vision Get Wild, VGW) Awards`
 - `2020 Youth Innovative Design Festival Creative Design Competition`
 - `2nd Taiwan Association of Digital Media Design Awards in 2019`
 
