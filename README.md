@@ -1,6 +1,6 @@
 | Stats | Streak |
 | :-: | :-: |
-| ![ChrisTJie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisTJie&theme=ambient_gradient&show_icons=true&show=reviews&count_private=true&hide_border=true&border_radius=10) | [![GitHub Streak](https://streak-stats.demolab.com?user=ChrisTJie&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats) |
+| ![ChrisTJie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisTJie&theme=ambient_gradient&show_icons=true&show=reviews&count_private=true&hide_border=true&border_radius=25) | [![GitHub Streak](https://streak-stats.demolab.com?user=ChrisTJie&theme=ambient-gradient&hide_border=true&border_radius=25)](https://git.io/streak-stats) |
 
 👋 Hello!
 I'm a Unity Game Programmer with nearly three years of experience, currently specializing in AR, VR, and MR development.
